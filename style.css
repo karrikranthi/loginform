@@ -1,0 +1,50 @@
+body
+{
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    font-family:;
+    height: 100vh;
+}
+form label center
+{
+    font-size: medium;
+    font-style: normal;
+    color: rgb(207, 207, 27);
+}
+center 
+{
+    top: 20%;
+    left: 30%;
+    right: 30%;
+    transform: translate(-30% -30%);
+    position: absolute;
+    background: white;
+    border-radius: 10px;
+}
+input[type="submit"]
+{
+    width: 60%;
+    height: 40px;
+    background: rgb(36, 126, 223);
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.signup_link
+{
+    text-align: center;
+    margin: 30px 0;
+    font-size: 16px;
+    color: grey;
+}
+.signup_link a
+{
+    color: blue;
+}
+.frps
+{
+    color: rgb(38, 118, 222);
+    margin-right: 150px;
+    margin-top: -6px;
+}
